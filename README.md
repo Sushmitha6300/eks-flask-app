@@ -266,5 +266,5 @@ Always eager to learn, experiment, and take on new challenges in the cloud and D
 
 **Let’s connect!**
 
-- **LinkedIn:**
+- **LinkedIn:** www.linkedin.com/in/sushmitha-ande
 - **GitHub:** https://github.com/Sushmitha6300
