@@ -53,7 +53,7 @@ Before running this project, ensure you have:
 
 ## Architecture Diagram:
 
-
+<img width="1006" height="746" alt="eks-flask-app-diagram" src="https://github.com/user-attachments/assets/87c6f3a1-515d-4ddd-891a-ca4add37771e" />
 
 ---
 
@@ -252,6 +252,7 @@ http://abc123456789.elb.amazonaws.com
 
 **You should see:**
 
+<img width="1808" height="689" alt="eks-flask-app-output" src="https://github.com/user-attachments/assets/a404c9bd-8b78-4b50-835d-c22cfa469e67" />
 
 ---
 
